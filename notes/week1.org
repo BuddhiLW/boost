@@ -1,0 +1,11 @@
+#+title: Week1
+
+* Starting point
+- Read and research.
+- Scientific method.
+- How to filter out crap information.
+
+* About W
+=writing=: Consuming an idea. Construct language around it.
+
+[[luhmann.surge.sh]]
